@@ -64,7 +64,7 @@
         <version>3.0.5</version>
       </plugin>
     </plugins>
-
+    <finalName>Spring-AWS-Exec</finalName>
   </build>
 
 </project>
